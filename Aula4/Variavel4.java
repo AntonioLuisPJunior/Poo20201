@@ -9,7 +9,7 @@ class Variavel4 {
         byte valorByte = 7;
         short valorShort = 300;
         long valorLong = 999999999;
-        int valorInt = 50;
+        //int valorInt = 50;
 
         System.out.println("Float : " + valorFloat);
         System.out.println("Double : " + valorDouble);
