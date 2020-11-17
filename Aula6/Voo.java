@@ -21,9 +21,6 @@ public class Voo {
 		Voo voo = new Voo();
 		voo.adicionarPassageiro();
 
-		Voo slzParaBsb;
-		slzParaBsb = new Voo();
-		
 		Voo slzParaVcp = new Voo();
 		slzParaVcp.adicionarPassageiro();
 
